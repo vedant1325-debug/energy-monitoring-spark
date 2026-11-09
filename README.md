@@ -3,7 +3,7 @@
 **Apache Spark 4.0 · PySpark · Spark SQL · Structured Streaming · MLlib · Parquet**
 
 A multinational company runs 15 sites (offices, data centers, factories, R&D labs and a
-warehouse) in 13 countries. Each site has its own meters, time zone, electricity tariff and
+warehouse) in 12 countries. Each site has its own meters, time zone, electricity tariff and
 grid carbon intensity. This project collects their 15-minute smart-meter data in one place
 and uses Apache Spark to:
 
@@ -22,7 +22,7 @@ and uses Apache Spark to:
 
 ```mermaid
 flowchart LR
-    subgraph Sites["15 sites · 60 smart meters · 13 countries"]
+    subgraph Sites["15 sites · 60 smart meters · 12 countries"]
         M1[BMS / meter exports<br/>CSV every month]
         M2[Live meter feed<br/>JSON every 15 min]
     end
