@@ -1,0 +1,2 @@
+site_id,site_name,meter_id,start_utc,end_utc,zero_intervals,hours_lost
+S03,Pune Plant,S03-PRODUCTION,2026-07-14 06:00:00,2026-07-16 05:45:00,191,47.75

@@ -1,0 +1,16 @@
+{
+  "dublin_after_hours_share_before_pct": 50.6,
+  "dublin_after_hours_share_after_pct": 60.7,
+  "dublin_excess_mwh": 329.5,
+  "dublin_excess_cost_usd": 98851,
+  "frankfurt_pue_first": 1.51,
+  "frankfurt_pue_max": 1.73,
+  "energy_share_by_site_type_pct": {
+    "Data Center": 66.8,
+    "Manufacturing": 16.2,
+    "Office": 11.7,
+    "R&D Lab": 3.8,
+    "Warehouse": 1.5
+  },
+  "most_expensive_site": "Frankfurt Data Center"
+}

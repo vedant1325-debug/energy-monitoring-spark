@@ -1,0 +1,28 @@
+# Standalone Spark cluster: 1 master + 2 workers. The project folder is mounted at /opt/project.
+#   docker compose up -d        -> master UI on http://localhost:8080
+#   then spark-submit from the master container (see README).
+x-spark: &spark
+  image: apache/spark:4.0.1-python3
+  volumes:
+    - ./:/opt/project
+  environment:
+    - EM_DATA_DIR=/opt/project/data
+
+services:
+  spark-master:
+    <<: *spark
+    container_name: spark-master
+    command: /opt/spark/bin/spark-class org.apache.spark.deploy.master.Master --host spark-master
+    ports:
+      - "8080:8080"
+      - "7077:7077"
+
+  spark-worker-1:
+    <<: *spark
+    command: /opt/spark/bin/spark-class org.apache.spark.deploy.worker.Worker --cores 2 --memory 2g spark://spark-master:7077
+    depends_on: [spark-master]
+
+  spark-worker-2:
+    <<: *spark
+    command: /opt/spark/bin/spark-class org.apache.spark.deploy.worker.Worker --cores 2 --memory 2g spark://spark-master:7077
+    depends_on: [spark-master]

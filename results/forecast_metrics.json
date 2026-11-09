@@ -1,0 +1,44 @@
+{
+  "model": "GBTRegressor (80 trees, depth 5)",
+  "train_rows": 4435,
+  "test_rows": 909,
+  "test_period": "2026-09-01 onward",
+  "rmse_kwh": 633.1,
+  "r2": 0.9998,
+  "mape_pct": 0.97,
+  "naive_same_day_last_week_mape_pct": 1.47,
+  "top_features": [
+    {
+      "feature": "lag_7_ratio",
+      "importance": 0.9012
+    },
+    {
+      "feature": "lag_1_ratio",
+      "importance": 0.0316
+    },
+    {
+      "feature": "temp_change",
+      "importance": 0.0151
+    },
+    {
+      "feature": "is_weekend",
+      "importance": 0.0144
+    },
+    {
+      "feature": "type_vec_Data Center",
+      "importance": 0.0115
+    },
+    {
+      "feature": "avg_temp_c",
+      "importance": 0.0085
+    },
+    {
+      "feature": "type_vec_Manufacturing",
+      "importance": 0.0058
+    },
+    {
+      "feature": "day_of_week",
+      "importance": 0.0048
+    }
+  ]
+}

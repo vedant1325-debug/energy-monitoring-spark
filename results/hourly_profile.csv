@@ -1,0 +1,241 @@
+site_type,is_weekend,local_hour,avg_kw
+Data Center,False,0,5362.5925
+Data Center,False,1,5307.9663
+Data Center,False,2,5283.594
+Data Center,False,3,5295.7256
+Data Center,False,4,5300.4405
+Data Center,False,5,5349.3835
+Data Center,False,6,5384.0138
+Data Center,False,7,5452.2415
+Data Center,False,8,5516.2681
+Data Center,False,9,5591.7667
+Data Center,False,10,5663.7593
+Data Center,False,11,5734.1435
+Data Center,False,12,5780.725
+Data Center,False,13,5820.3889
+Data Center,False,14,5842.7587
+Data Center,False,15,5865.8957
+Data Center,False,16,5840.0793
+Data Center,False,17,5811.283
+Data Center,False,18,5761.9211
+Data Center,False,19,5689.1851
+Data Center,False,20,5612.3478
+Data Center,False,21,5549.6045
+Data Center,False,22,5480.8165
+Data Center,False,23,5413.5375
+Data Center,True,0,5367.0447
+Data Center,True,1,5299.2777
+Data Center,True,2,5299.264
+Data Center,True,3,5301.3153
+Data Center,True,4,5306.7519
+Data Center,True,5,5338.0245
+Data Center,True,6,5394.3118
+Data Center,True,7,5440.7364
+Data Center,True,8,5517.9568
+Data Center,True,9,5584.1906
+Data Center,True,10,5665.4791
+Data Center,True,11,5742.6549
+Data Center,True,12,5799.8109
+Data Center,True,13,5829.7659
+Data Center,True,14,5837.1648
+Data Center,True,15,5861.8827
+Data Center,True,16,5832.3134
+Data Center,True,17,5787.9574
+Data Center,True,18,5759.4057
+Data Center,True,19,5696.1651
+Data Center,True,20,5618.1723
+Data Center,True,21,5514.4307
+Data Center,True,22,5468.3156
+Data Center,True,23,5400.6392
+Manufacturing,False,0,869.5094
+Manufacturing,False,1,867.7461
+Manufacturing,False,2,867.3675
+Manufacturing,False,3,868.066
+Manufacturing,False,4,866.8914
+Manufacturing,False,5,868.7735
+Manufacturing,False,6,3063.4707
+Manufacturing,False,7,3061.5787
+Manufacturing,False,8,3074.6692
+Manufacturing,False,9,3092.1267
+Manufacturing,False,10,3099.1629
+Manufacturing,False,11,3113.2457
+Manufacturing,False,12,3121.8445
+Manufacturing,False,13,3131.2171
+Manufacturing,False,14,3140.6729
+Manufacturing,False,15,3140.031
+Manufacturing,False,16,3132.3055
+Manufacturing,False,17,3120.4763
+Manufacturing,False,18,3121.9341
+Manufacturing,False,19,3106.7968
+Manufacturing,False,20,3091.2697
+Manufacturing,False,21,3078.5776
+Manufacturing,False,22,872.616
+Manufacturing,False,23,869.5368
+Manufacturing,True,0,870.1237
+Manufacturing,True,1,870.5086
+Manufacturing,True,2,872.0614
+Manufacturing,True,3,868.4049
+Manufacturing,True,4,869.7693
+Manufacturing,True,5,870.0678
+Manufacturing,True,6,1814.6237
+Manufacturing,True,7,1815.4546
+Manufacturing,True,8,1829.3928
+Manufacturing,True,9,1846.3172
+Manufacturing,True,10,1841.6421
+Manufacturing,True,11,1871.1234
+Manufacturing,True,12,1864.1326
+Manufacturing,True,13,1860.4922
+Manufacturing,True,14,905.5892
+Manufacturing,True,15,904.6666
+Manufacturing,True,16,904.4032
+Manufacturing,True,17,900.8806
+Manufacturing,True,18,896.4026
+Manufacturing,True,19,890.777
+Manufacturing,True,20,883.5101
+Manufacturing,True,21,877.6146
+Manufacturing,True,22,872.4588
+Manufacturing,True,23,870.3802
+Office,False,0,297.0954
+Office,False,1,297.3538
+Office,False,2,297.884
+Office,False,3,297.6822
+Office,False,4,297.3133
+Office,False,5,297.1837
+Office,False,6,295.511
+Office,False,7,447.0607
+Office,False,8,643.1774
+Office,False,9,641.4317
+Office,False,10,638.4393
+Office,False,11,638.057
+Office,False,12,638.4622
+Office,False,13,637.2063
+Office,False,14,638.0718
+Office,False,15,638.5148
+Office,False,16,637.4618
+Office,False,17,638.5484
+Office,False,18,639.1985
+Office,False,19,443.4027
+Office,False,20,444.7801
+Office,False,21,293.2841
+Office,False,22,293.7448
+Office,False,23,295.0823
+Office,True,0,286.9924
+Office,True,1,288.8131
+Office,True,2,288.1702
+Office,True,3,289.1777
+Office,True,4,289.3602
+Office,True,5,288.254
+Office,True,6,286.5133
+Office,True,7,285.0039
+Office,True,8,284.6488
+Office,True,9,282.9387
+Office,True,10,281.8361
+Office,True,11,281.5527
+Office,True,12,281.2914
+Office,True,13,281.2651
+Office,True,14,281.0503
+Office,True,15,280.5786
+Office,True,16,281.6932
+Office,True,17,281.0737
+Office,True,18,280.8988
+Office,True,19,281.5345
+Office,True,20,282.1102
+Office,True,21,283.1538
+Office,True,22,284.572
+Office,True,23,286.4478
+R&D Lab,False,0,354.4734
+R&D Lab,False,1,356.7771
+R&D Lab,False,2,358.2772
+R&D Lab,False,3,358.153
+R&D Lab,False,4,357.7617
+R&D Lab,False,5,355.6434
+R&D Lab,False,6,352.5987
+R&D Lab,False,7,463.7285
+R&D Lab,False,8,724.5452
+R&D Lab,False,9,718.1654
+R&D Lab,False,10,713.1907
+R&D Lab,False,11,709.6883
+R&D Lab,False,12,706.4452
+R&D Lab,False,13,705.8919
+R&D Lab,False,14,703.7111
+R&D Lab,False,15,703.1254
+R&D Lab,False,16,704.5988
+R&D Lab,False,17,704.2954
+R&D Lab,False,18,707.5906
+R&D Lab,False,19,712.5049
+R&D Lab,False,20,452.765
+R&D Lab,False,21,458.5555
+R&D Lab,False,22,346.7284
+R&D Lab,False,23,350.5039
+R&D Lab,True,0,334.9726
+R&D Lab,True,1,336.5252
+R&D Lab,True,2,337.1675
+R&D Lab,True,3,339.0849
+R&D Lab,True,4,338.2013
+R&D Lab,True,5,335.3272
+R&D Lab,True,6,331.9042
+R&D Lab,True,7,328.5727
+R&D Lab,True,8,326.6779
+R&D Lab,True,9,322.0733
+R&D Lab,True,10,318.2086
+R&D Lab,True,11,317.4813
+R&D Lab,True,12,314.3588
+R&D Lab,True,13,314.4769
+R&D Lab,True,14,315.2759
+R&D Lab,True,15,312.9395
+R&D Lab,True,16,314.8041
+R&D Lab,True,17,316.0672
+R&D Lab,True,18,317.8372
+R&D Lab,True,19,317.9105
+R&D Lab,True,20,321.1053
+R&D Lab,True,21,324.0743
+R&D Lab,True,22,327.2834
+R&D Lab,True,23,331.1273
+Warehouse,False,0,202.5744
+Warehouse,False,1,202.4614
+Warehouse,False,2,201.9862
+Warehouse,False,3,201.4812
+Warehouse,False,4,202.016
+Warehouse,False,5,203.0126
+Warehouse,False,6,565.7249
+Warehouse,False,7,569.0652
+Warehouse,False,8,573.9894
+Warehouse,False,9,581.6198
+Warehouse,False,10,586.8322
+Warehouse,False,11,592.7011
+Warehouse,False,12,596.7136
+Warehouse,False,13,602.8272
+Warehouse,False,14,605.5018
+Warehouse,False,15,602.2906
+Warehouse,False,16,604.4504
+Warehouse,False,17,599.6414
+Warehouse,False,18,593.526
+Warehouse,False,19,591.2455
+Warehouse,False,20,211.4931
+Warehouse,False,21,209.7368
+Warehouse,False,22,206.2082
+Warehouse,False,23,204.2655
+Warehouse,True,0,203.5614
+Warehouse,True,1,201.9768
+Warehouse,True,2,202.0406
+Warehouse,True,3,201.5504
+Warehouse,True,4,201.8718
+Warehouse,True,5,203.3022
+Warehouse,True,6,203.9719
+Warehouse,True,7,205.0192
+Warehouse,True,8,316.6167
+Warehouse,True,9,321.0645
+Warehouse,True,10,325.2763
+Warehouse,True,11,329.7976
+Warehouse,True,12,331.8365
+Warehouse,True,13,335.6782
+Warehouse,True,14,223.0782
+Warehouse,True,15,222.4638
+Warehouse,True,16,222.4351
+Warehouse,True,17,220.9004
+Warehouse,True,18,218.154
+Warehouse,True,19,214.7116
+Warehouse,True,20,211.0505
+Warehouse,True,21,208.4779
+Warehouse,True,22,206.252
+Warehouse,True,23,203.95

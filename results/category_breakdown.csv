@@ -1,0 +1,21 @@
+site_type,category,kwh,share
+Data Center,IT,90031868.6903,0.615
+Data Center,HVAC,44535208.8931,0.3042
+Data Center,Other,7098457.6579,0.0485
+Data Center,Lighting,4732509.3543,0.0323
+Manufacturing,Production,20731633.2469,0.5836
+Manufacturing,HVAC,6535542.2022,0.184
+Manufacturing,Other,4459648.806,0.1255
+Manufacturing,Lighting,3797633.6264,0.1069
+Office,HVAC,11034722.4232,0.4306
+Office,IT,7392427.0343,0.2885
+Office,Lighting,4347322.0898,0.1696
+Office,Other,2850885.364,0.1113
+R&D Lab,HVAC,3373685.8316,0.3998
+R&D Lab,IT,2036475.8202,0.2413
+R&D Lab,Production,1800310.4873,0.2134
+R&D Lab,Lighting,1227607.5138,0.1455
+Warehouse,HVAC,1194030.7268,0.3637
+Warehouse,Lighting,1126119.9859,0.343
+Warehouse,Production,570160.7279,0.1737
+Warehouse,Other,392822.3055,0.1196

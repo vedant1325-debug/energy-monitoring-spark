@@ -1,0 +1,40 @@
+{
+  "period": "2025-10-31 to 2026-11-01",
+  "sites": 15,
+  "meters": 60,
+  "regions": [
+    "AMER",
+    "APAC",
+    "EMEA"
+  ],
+  "total_mwh": 219269.1,
+  "total_cost_usd": 30028254.0,
+  "total_co2_tonnes": 103473.4,
+  "spike_anomalies": 1093,
+  "spike_excess_cost_usd": 57169.0,
+  "meter_faults": 1,
+  "data_quality": {
+    "rows": 2108700,
+    "null_energy": 4143,
+    "negative_energy": 1045,
+    "over_cap": 0,
+    "null_timestamp": 0,
+    "duplicate_rows": 6300,
+    "unknown_site_rows": 0,
+    "clean_rows": 2097224,
+    "rows_removed": 11476
+  },
+  "spark": {
+    "version": "4.0.1",
+    "master": "local[*]",
+    "default_parallelism": 8,
+    "shuffle_partitions": 32
+  },
+  "timings_sec": {
+    "ingest_and_quality": 13.88,
+    "clean_enrich_write_parquet": 38.92,
+    "analytics": 14.02,
+    "anomaly_detection": 8.33,
+    "total": 75.15
+  }
+}
